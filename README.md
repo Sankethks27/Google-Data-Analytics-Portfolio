@@ -116,7 +116,7 @@ This portfolio represents my personal learning journey through the Google Data A
 
 ## 🙏🏿 Acknowledgments
 
-- IBM for the comprehensive curriculum
+- Google for the comprehensive curriculum
 - Coursera for the learning platform
 
 ---
@@ -124,3 +124,4 @@ This portfolio represents my personal learning journey through the Google Data A
 ⭐ **If you find this portfolio helpful or inspiring, please give it a star!** ⭐
 
 ---
+
