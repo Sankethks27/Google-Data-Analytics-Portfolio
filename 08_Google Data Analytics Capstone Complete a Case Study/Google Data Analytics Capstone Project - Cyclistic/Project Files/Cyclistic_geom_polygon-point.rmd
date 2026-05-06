@@ -1,7 +1,7 @@
 ---
-title: "Coursera Capstone Project - Cyclistic"
-author: "Kevin Chin"
-date: "2023-10-03"
+title: "Google Data Analytics Capstone Project - Cyclistic"
+author: "Sanketh Ks"
+date: "February 2025"
 output: html_document
 ---
 
