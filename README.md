@@ -1,2 +1,1 @@
-# Google-Data-Analytics-Portfolio
-Google Data Analytics Professional Certificate program instructs on how to clean and organize data for analysis, and complete analysis and calculations using spreadsheets, SQL, Tableau and R programming.
+![Google Data Analytics](https://www.credly.com/badges/ab4a20e1-0e54-4ff7-a1f4-47f49b15fa11/public_url)
