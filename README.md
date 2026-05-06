@@ -1,3 +1,3 @@
 # 📊 Google Data Analytics Professional Certificate Portfolio
 
-![Google Data Analytics](https://github.com/Sankethks27/Google-Data-Analytics-Portfolio/blob/main/google-data-analytics-professional-certificate.png)
+![Google Data Analytics](https://github.com/Sankethks27/Google-Data-Analytics-Portfolio/blob/main/Google%20Data%20Analytics%20Professional%20Certificate/Google%20Data%20Analytics%20Professional%20Certificate%20-%20Credly.png)
