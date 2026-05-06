@@ -69,3 +69,58 @@ Professional Certificate - 8-course series
 - Identify the key features and attributes of a completed case study.
 - Apply the practices and procedures associated with the data analysis process to a given set of data.
 - Discuss the use of case studies/portfolios when communicating with recruiters and potential employers.
+
+## What you'll learn
+
+- Gain an immersive understanding of the practices and processes used by a junior or associate data analyst in their day-to-day job
+- Learn key analytical skills (data cleaning, analysis, & visualization) and tools (spreadsheets, SQL, R programming, Tableau)
+- Understand how to clean and organize data for analysis, and complete analysis and calculations using spreadsheets, SQL and R programming
+- Learn how to visualize and present data findings in dashboards, presentations and commonly used visualization platforms
+
+## Skills you'll gain
+
+- Data Analysis
+- Creating case studies
+- Data Visualization
+- Data Cleansing
+- Developing a portfolio
+- Data Collection
+- Spreadsheet
+- Metadata
+- SQL
+- Data Ethics
+- Data Aggregation
+- Data Calculations
+- R Markdown
+- R Programming
+- Rstudio
+- Tableau Software
+- Presentation
+- Data Integrity
+- Sample Size Determination
+- Decision-Making
+- Problem Solving
+- Questioning
+
+## 🤝🏿 **Contributing**
+
+This portfolio represents my personal learning journey through the Google Data Analytics Professional Certificate. While this is primarily a showcase of my work, I welcome discussions, feedback, and collaborations on data analysis projects.
+
+## 📧 **Contact**
+
+**Sanketh Ks**  
+- GitHub: [@Sankethks27](https://github.com/Sankethks27)
+- LinkedIn: [Sanketh Ks](https://www.linkedin.com/in/sanketh-ks-181962273/)
+- Email: sankethks27@gmail.com
+
+
+## 🙏🏿 Acknowledgments
+
+- IBM for the comprehensive curriculum
+- Coursera for the learning platform
+
+---
+
+⭐ **If you find this portfolio helpful or inspiring, please give it a star!** ⭐
+
+---
